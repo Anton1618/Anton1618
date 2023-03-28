@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
+---------------
 
 <h3>Code redactors</h3>
 
@@ -19,15 +19,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anton1618&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+---------------
 --->
 <h3>My stat</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anton1618)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton1618)](https://github.com/Anton1618/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton1618)](https://github.com/anuraghazra/github-readme-stats)
 
----
+---------------
 
 
 
