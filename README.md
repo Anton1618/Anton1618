@@ -1,8 +1,8 @@
 <h3 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Anton 
+  Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Anton 
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Freelancer;Writer;CG artist;Sportsman%20by%20starcraft;Always%20eager%20to%20learn%20new&font=Fira%20Code&center=true&color=5846b3&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Freelancer;Cocial%20media%20Writer;CG artist;Sportsman%20by%20starcraft;Always%20eager%20to%20learn%20new&center=true&color=404040&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
 </p>
 
 ### Programming and markup languages
@@ -37,19 +37,3 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anton1618" alt="Anton1618's github stats" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anton1618&layout=compact&hide_border=true"></a>
 </p>
-
-
-<!--
-**Anton1618/Anton1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
