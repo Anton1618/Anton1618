@@ -1,4 +1,9 @@
-# <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hi+there,+👋+I'm+Anton+😼)](https://git.io/typing-svg)</p>
+<h3 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Anton 
+</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Freelancer;Writer;CG artist;Sportsman%20by%20starcraft;Always%20eager%20to%20learn%20new&font=Fira%20Code&center=true&color=5846b3&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+</p>
 
 ### Programming and markup languages
 <p>
@@ -16,7 +21,7 @@
 </p>
 
 ### Databases and cloud hosting
-  <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 
 ### Software and tools
 <p>
