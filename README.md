@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anton1618" alt="Anton1618's github stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Anton1618&hide_border=true"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anton1618&layout=compact&hide_border=true"></a>
 </p>
 
 
