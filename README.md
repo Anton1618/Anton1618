@@ -2,7 +2,7 @@
   Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Anton 
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Freelancer;Cocial%20media%20Writer;CG artist;Sportsman%20by%20starcraft;Always%20eager%20to%20learn%20new&center=true&color=404040&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Freelancer;Cocial%20media%20Writer;CG artist;Mr%20universe%20(according%20to%20my%20mom);Sportsman%20by%20starcraft;Always%20eager%20to%20learn%20new&center=true&color=FFCC00&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
 </p>
 
 ### Programming and markup languages
@@ -25,6 +25,7 @@
 
 ### Software and tools
 <p>
+  <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
@@ -32,7 +33,6 @@
 </p>
 
 ### Github stats
-
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anton1618" alt="Anton1618's github stats" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anton1618&hide_border=true&hide_title=true&langs_count=10"></a>
