@@ -2,7 +2,7 @@
   Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Anton 
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Freelancer;Cocial%20media%20Writer;CG artist;Mr%20universe%20(according%20to%20my%20mom);Sportsman%20by%20starcraft;Always%20eager%20to%20learn%20new&center=true&color=FFCC00&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Actively%20looking%20for%20(jobs);Howard%20Lovecraft%20fun;The most%20beautiful%20and%20smartest%20(according%20to%20my%20mom);Esportsman%20(in%20starcraft);Always%20eager%20to%20learn%20new&center=true&color=FFCC00&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
 </p>
 
 ### Programming and markup languages
