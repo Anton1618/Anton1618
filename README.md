@@ -2,7 +2,7 @@
   Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Anton 
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Actively%20looking%20(for%20jobs);Howard%20Lovecraft%20fun;The%20best%20programmer%20(according%20to%20my%20mom);Athlete%20(in%20esports);Always%20eager%20to%20learn%20new&center=true&color=7a7a7a&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Howard%20Lovecraft%20fun;The%20best%20programmer%20(according%20to%20my%20mom);Photo%20and%20video editor;Always%20eager%20to%20learn%20new&center=true&color=7a7a7a&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
 </p>
 
 ### Programming and markup languages
@@ -26,6 +26,7 @@
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
+<img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />&nbsp;
 
 ### GitHub Analytics
 </p>
