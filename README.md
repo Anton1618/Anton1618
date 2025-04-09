@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anton1618&theme=algolia" alt="Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anton1618&theme=dark" alt="Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton1618&theme=algolia&layout=compact" />
