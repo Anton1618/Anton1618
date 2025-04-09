@@ -31,10 +31,10 @@
 <table>
   <tr>
     <td>
-      <img align="left"  alt="Github stats" src="https://streak-stats.demolab.com//?user=Anton1618&theme=react&count_private=true" />
+      <img height="260px" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anton1618&style=for-the-badge&title_color=09A9FF&text_color=F2F2F2&bg_color=150E1F&show_icons=true&icon_color=F28157&rank_icon=github" />
     </td>
     <td>
-      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton1618&theme=algolia&layout=compact" />
+      <img height="260px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton1618&theme=algolia&bg_color=150e1f&text_color=F28157&title_color=09A9FF" />
     </td>
   </tr>
 </table>
